@@ -1,4 +1,8 @@
 .venv
 .env
 
-test/
+test
+pycache
+
+logs/*
+*.log
